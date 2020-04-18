@@ -1,0 +1,10 @@
+public class Halloword{
+
+
+public static void main(String[] args){
+
+system.out.println("hallo word");
+
+}
+
+}
